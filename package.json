@@ -1,12 +1,11 @@
 {
-  "name": "motos-eslint",
+  "name": "motos-nackers",
   "version": "1.0.0",
   "main": "index.html",
   "scripts": {
     "build": "webpack --mode production",
     "dev": "webpack --mode development --watch"
   },
-  "author": "",
   "license": "ISC",
   "devDependencies": {
     "@babel/cli": "^7.5.5",
